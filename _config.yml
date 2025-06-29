@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Pamela Clifton
+email: pamelaclifton2028@gmail.com
+url: https://pamelalclifton.github.io/portfolio
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+skills: "Cybersecurity - Analyst - Ethical Hacker - Pentester"
+meta_author: Pamela Clifton
 
 # Google webmaster tools
 google_verify:
@@ -32,25 +32,25 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
-  location: Location
+  copyright: Pamela Clifton
+  location: 
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/beau-gilbert93pamelaclifton2028/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/pamelalclifton
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
+  email-url: mailto:pamelaclifton2028@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Dallas, TX
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
